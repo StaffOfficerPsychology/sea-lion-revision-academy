@@ -1,12 +1,21 @@
-SEA LION 2026 REVISION ACADEMY — WEBSITE PACKAGE
+SEA LION 2026 – 60-QUESTION MIXED-FORMAT QUIZ
 
-Publish a shareable public link with GitHub Pages:
-1. Sign in at https://github.com/ (or create a free account).
-2. Create a new PUBLIC repository named sea-lion-revision-academy.
-3. Upload index.html to the repository's top level and commit it.
-4. Open Settings > Pages.
-5. Under Build and deployment, select Deploy from a branch.
-6. Choose branch main and folder /(root), then Save.
-7. Wait for publishing. GitHub will display the public URL in Settings > Pages.
+ASSESSMENT COMPOSITION
+- 30 multiple-choice questions
+- 30 short-answer questions
+- 60 questions overall
+- Readiness benchmark: 48/60 (80%)
 
-This is a standalone HTML app. No build process is required.
+Short-answer questions display a suggested answer and explanation after submission.
+Automated marking uses key-term matching, so equivalent wording may not always be
+recognised. Students should compare their response with the suggested answer.
+
+PUBLISH TO THE EXISTING GITHUB PAGES SITE
+1. Extract this ZIP file.
+2. Open StaffOfficerPsychology/sea-lion-revision-academy on GitHub.
+3. Choose Add file > Upload files.
+4. Upload index.html to the repository root, replacing the existing file.
+5. Commit the change to the main branch.
+6. Wait for the Pages build and deployment workflow to show a green tick.
+7. Test the existing public link:
+   https://staffofficerpsychology.github.io/sea-lion-revision-academy/
