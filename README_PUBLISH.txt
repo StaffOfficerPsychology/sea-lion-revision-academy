@@ -4,11 +4,7 @@ ASSESSMENT COMPOSITION
 - 30 multiple-choice questions
 - 30 short-answer questions
 - 60 questions overall
-- Readiness benchmark: 48/60 (80%)
-
-Short-answer questions display a suggested answer and explanation after submission.
-Automated marking uses key-term matching, so equivalent wording may not always be
-recognised. Students should compare their response with the suggested answer.
+- Readiness benchmark: at least 48/60 (80%)
 
 PUBLISH TO THE EXISTING GITHUB PAGES SITE
 1. Extract this ZIP file.
